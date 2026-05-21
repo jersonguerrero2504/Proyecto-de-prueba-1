@@ -1,3 +1,4 @@
 Hola, estoy en la clase
 
 Estoy agregando un segundo párrafo
+y yo te propongo este cambio, agrega un cuarto parrafo
